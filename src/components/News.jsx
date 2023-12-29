@@ -42,6 +42,8 @@ class News extends React.Component {
                 })}
             </ul>
         </>
+
+        
         
         )
     }
